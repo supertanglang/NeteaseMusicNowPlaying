@@ -1,16 +1,21 @@
 ![NeteaseMusicNowPlaying](preview.jpg)
 # NeteaseMusicNowPlaying
 网易云音乐Mac版 监视正在播放曲目
+
 将Mac版网易云音乐正在播放曲目名和歌手输出至TXT文件
+
 TXT文件路径位于~/163MusicNowPlaying.txt
 
 可配合OBS使用，效果如图
 ![withOBS](obs.jpg)
 OBS若显示方块，请确认所选字体支持相关文字
+
 中/日文推荐 冬青黑体简体中文
 
 TODO:
+
 常驻系统托盘
+
 隐藏DOCK图标
 
 
